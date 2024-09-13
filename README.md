@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and ThreeJs
 - 🤔 I’m looking for help with forward to absorb knowledge, gain experience and collaborate !  
 - 💬 Ask me about anything
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/tristan-brasseur/"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" /> <a/> <a href="https://x.com/Eiroh_fr"><img height="20" width="20" src="https://cdn.simpleicons.org/x" /> <a/>
+- 📫 How to reach me:  <a target="_blank" href="https://www.linkedin.com/in/tristan-brasseur/"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" /> <a/> <a target="_blank" href="https://x.com/Eiroh_fr"><img height="20" width="20" src="https://cdn.simpleicons.org/x" /> <a/>
 
 ## My tech stack 💻 
 
