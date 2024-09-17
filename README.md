@@ -1,4 +1,4 @@
-## Hello there ! I'm Tristan Brasseur 🖖
+## Hello there ! I'm Tristan 🖖
 - 👨‍🎓 I'm currently studying Software engineering
 - 🌱 I’m currently learning Java and ThreeJs
 - 🤔 I’m looking for help with forward to absorb knowledge, gain experience and collaborate !  
